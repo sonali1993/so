@@ -1,13 +1,13 @@
 {
-  "main.css": "/so/static/css/main.3b5c5aac.chunk.css",
-  "main.js": "/so/static/js/main.44274004.chunk.js",
-  "main.js.map": "/so/static/js/main.44274004.chunk.js.map",
-  "static/js/1.7eae6140.chunk.js": "/so/static/js/1.7eae6140.chunk.js",
-  "static/js/1.7eae6140.chunk.js.map": "/so/static/js/1.7eae6140.chunk.js.map",
-  "runtime~main.js": "/so/static/js/runtime~main.ab6efe3a.js",
-  "runtime~main.js.map": "/so/static/js/runtime~main.ab6efe3a.js.map",
-  "static/css/main.3b5c5aac.chunk.css.map": "/so/static/css/main.3b5c5aac.chunk.css.map",
-  "index.html": "/so/index.html",
-  "precache-manifest.5db8bee749e2d218c4556d1dd6eb222f.js": "/so/precache-manifest.5db8bee749e2d218c4556d1dd6eb222f.js",
-  "service-worker.js": "/so/service-worker.js"
+  "main.css": "/sonali1993/so.git/static/css/main.3b5c5aac.chunk.css",
+  "main.js": "/sonali1993/so.git/static/js/main.b68935b1.chunk.js",
+  "main.js.map": "/sonali1993/so.git/static/js/main.b68935b1.chunk.js.map",
+  "static/js/1.7eae6140.chunk.js": "/sonali1993/so.git/static/js/1.7eae6140.chunk.js",
+  "static/js/1.7eae6140.chunk.js.map": "/sonali1993/so.git/static/js/1.7eae6140.chunk.js.map",
+  "runtime~main.js": "/sonali1993/so.git/static/js/runtime~main.3ac20587.js",
+  "runtime~main.js.map": "/sonali1993/so.git/static/js/runtime~main.3ac20587.js.map",
+  "static/css/main.3b5c5aac.chunk.css.map": "/sonali1993/so.git/static/css/main.3b5c5aac.chunk.css.map",
+  "index.html": "/sonali1993/so.git/index.html",
+  "precache-manifest.ca7928bda546cbb8fe5e64dd339b153b.js": "/sonali1993/so.git/precache-manifest.ca7928bda546cbb8fe5e64dd339b153b.js",
+  "service-worker.js": "/sonali1993/so.git/service-worker.js"
 }
